@@ -4,7 +4,7 @@ body {
 	text-align: center;
 }
 nav {
-	background-color: #808080
+	background-color: #808080;
 	color: white;
 	clear: both;
 }
@@ -58,7 +58,6 @@ footer {
   	border: 1px solid black;
  	border-radius: 10px;
  	background-color: yellow;
- 	float: left;
  	margin: 8%;
 }
 
